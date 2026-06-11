@@ -1,8 +1,3 @@
-## BACA DULU BANG
-
-> **Warning**: Sc nya gk support termux. [`Klik disini untuk download sc yg support termux`](https://github.com/zeeoneofficial/Alphabot-Md/#For-Termux)
-
------------------------------------------------------
 
 <p align="center">
 <img src="https://github.com/zeeoneofficial.png" alt="ALPHA BOT" width="150"/>
